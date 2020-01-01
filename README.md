@@ -1,2 +1,3 @@
 # Test-website
 Test
+<!DOCTYPE>
